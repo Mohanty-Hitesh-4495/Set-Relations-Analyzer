@@ -1,4 +1,4 @@
-package MathProjClasses;
+package Set_Relation_Analyzer;
 
 import java.util.ArrayList;
 
