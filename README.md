@@ -24,8 +24,8 @@ Follow these steps to get started with the Set Relations Analyzer:
     cd SetRelationsAnalyzer
 3. **Compile and Run:**
    ```bash
-    javac SetRelationsAnalyzer.java
-    java SetRelationsAnalyzer
+    javac MathProjT0.java
+    java MathProjT0.java
 4. **Input Set:**
 - The program will prompt you to input the set for analysis. Enter the set elements separated by commas.
 5. **View Results:**
