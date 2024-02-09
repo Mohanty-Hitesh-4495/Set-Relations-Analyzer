@@ -47,9 +47,6 @@ If you would like to contribute to the development of Set Relations Analyzer, pl
 3. Test your changes thoroughly.
 4. Submit a pull request with a clear description of your changes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 Special thanks to the contributors and the community for their support.
 Happy analyzing sets and exploring their relations! 🚀
